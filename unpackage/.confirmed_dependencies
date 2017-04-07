@@ -1,0 +1,51 @@
+{
+	"index.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"css/index.css",
+			"img/11.jpg",
+			"html/recomend.html",
+			"img/51.jpg",
+			"img/cont6.jpg",
+			"img/4.jpg",
+			"img/cont1.jpg",
+			"css/recomend.css",
+			"img/cont3.jpg",
+			"img/cont7.jpg",
+			"img/5.jpg",
+			"img/17.jpg",
+			"img/2.jpg",
+			"img/1.jpg",
+			"img/cont4.jpg",
+			"img/6.jpg",
+			"img/list_sprite.png",
+			"img/3.jpg"
+		],
+		"refer": [
+			"html/recomend.html"
+		]
+	},
+	"html/recomend.html": {
+		"resources": [
+			"img/2.jpg",
+			"img/1.jpg",
+			"img/4.jpg",
+			"css/recomend.css",
+			"img/3.jpg",
+			"img/5.jpg",
+			"img/51.jpg",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"img/6.jpg",
+			"img/cont6.jpg",
+			"img/cont1.jpg",
+			"img/cont3.jpg",
+			"img/cont7.jpg",
+			"img/17.jpg",
+			"img/cont4.jpg",
+			"img/11.jpg",
+			"img/list_sprite.png"
+		]
+	}
+}

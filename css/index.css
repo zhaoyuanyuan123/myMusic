@@ -1,0 +1,72 @@
+html {
+    font-size: 100px;
+}
+body,html{
+	height:100%;
+}
+
+body{
+    font-size: 16px;
+}
+i{
+	font-style:normal;
+}
+a{
+	color:#666;
+}
+header{
+	background:#31c27c;
+	height:0.44rem;
+}
+header .music_logo{
+	background-image:url("../img/11.jpg");
+	background-repeat:no-repeat;
+	background-position: 0.1rem 0.03rem;
+	background-size:0.30rem 0.30rem;
+	width:1.9rem;
+	height:0.38rem;	
+	display:inline-block;	
+	color:#fff;
+	font-size:20px;
+	line-height:0.35rem;
+	padding-left:0.45rem;
+	
+}
+.music_download{	
+	display:block;
+	float:right;
+	width:0.8rem;
+	height:0.3rem;
+	color:#fff;
+	background:#149c5a;
+	text-align:center;
+	line-height:0.3rem;
+	font-size:14px;
+	margin-right:0.2rem;
+	margin-top:0.08rem;
+	border-radius:25px;
+	 
+}
+nav{
+	height:0.4rem; 
+	display:flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+nav div {	   
+    width:1.25rem; 
+    height:0.4rem;       
+    text-align:center;
+    line-height:0.4rem;
+    font-size: 16px;
+    display:inline-block;   	
+    border-bottom:2px solid #149c5a;
+}
+
+/*display:flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	border:1px solid #000;*/

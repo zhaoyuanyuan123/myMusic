@@ -1,0 +1,160 @@
+html {
+    font-size: 100px;
+}
+*{
+	margin:0px;
+	padding:0px;
+}
+body,html{
+	height:100%;
+}
+body{
+    font-size: 16px;
+}
+i{
+	font-style:normal;
+}
+a{
+	color:#666;
+}
+ul li{
+	list-style:none;
+}
+#content{
+	height:5.0rem;
+	flex:1;
+	overflow: auto;
+}
+.mui-slider-item img{
+	height:1.5rem;
+}
+.mod_twocol{
+	height:2.64rem;
+	background:#fff;
+	
+	
+}
+.mod_twocol h2{
+	font-size:18px;
+	font-weight: normal;
+	margin-left:0.2rem;		
+	height:0.25rem;		
+}
+.mod_twocol ul{
+	display:flex;
+	flex-direction: row;
+	flex-wrap:wrap;
+	justify-content: space-around;
+}
+.mod_twocol ul li {
+	width:1.7rem;
+	height:2.01rem;		
+	position:relative;
+}
+.mod_twocol ul li span{
+	background-image:url("../img/list_sprite.png");
+	background-repeat:no-repeat;
+	background-position: 1.2rem 0.03rem;
+	background-size:0.30rem 0.30rem;
+	border:1px solid #149C5A;
+	position:absolute;
+	display:block;
+	
+	bottom:0.4rem;
+	right:0.08rem;
+	width:0.35rem;
+	height:0.35rem;
+}
+.mod_twocol ul li p{
+	font-size:16px;	
+	color:#222;
+	margin-left:0.08rem
+}
+.mod_twocol img{
+	width:1.73rem;
+	height:1.73rem;
+}
+.mod_twocol_hot{
+	height:6.9rem;
+	background:#eee;	
+}
+.mod_twocol_hot img{
+	width:1.73rem;
+	height:1.73rem;
+}
+.mod_twocol_hot ul li{
+	width:1.7rem;
+	height:2.2rem;	
+}
+.mod_twocol_hot ul li p{
+	font-size:14px;	
+	width:1.7rem;
+	color:#222;	
+}
+.mod_twocol_hot ul li span{
+	font-size:12px;	
+	width:1.7rem;
+	color:#222;	
+	margin-left:0.03rem;
+	margin-top:-0.13rem;
+	display:block;	
+}
+.mod_twocol_hot ul{
+	display:flex;
+	flex-direction: row;
+	flex-wrap:wrap;
+	justify-content: space-around;
+}
+.mod_twocol_hot h2{
+	font-size:18px;
+	font-weight: normal;
+	margin-left:0.2rem;		
+	height:0.25rem;		
+}
+footer{
+	height:2.4rem;	
+
+}
+#gouser{	
+	height:0.4rem;
+	margin-top:10px;
+	text-align:center;
+	line-height:0.4rem;
+	color:#222;
+}
+#lookcomputer{
+	display:block;
+	height:0.4rem;
+	margin-top:10px;
+	text-align:center;
+	line-height:0.4rem;
+	color:#000;	
+}
+#lookcomputer a{
+	color:#000;
+}
+#music_logo{
+	background-image:url("../img/11.jpg");
+	background-repeat:no-repeat;
+	background-position: 1.2rem 0.03rem;
+	background-size:0.30rem 0.30rem;
+	height:0.5rem;
+	padding-left:1.6rem;
+	line-height:0.4rem
+}
+#copyright p{
+	text-align:center;
+	color:#222;
+}
+#copyright span{
+	text-align:center;
+	color:#222;
+	display:block;
+	font-size:14px;
+}
+/*display:flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	border:1px solid #000;*/
